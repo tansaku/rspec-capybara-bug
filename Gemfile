@@ -6,6 +6,6 @@ gem 'sinatra'
 
 group :test do
   gem 'rspec'
-  gem 'webmock'
   gem 'capybara'
+  gem 'launchy'
 end
