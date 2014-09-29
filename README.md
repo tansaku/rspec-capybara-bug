@@ -1,4 +1,4 @@
-rspec-capybara-webmock-bug
+RSpec Capybara Bug
 ==========================
 
-exposing a bug with RSpec Capybara and Webmock
+This simple example exposes a bug with RSpec Capybara whereby the presence of sinatra errors prevents tests from failing when they should.  Please clone and run `bundle` and then `rspec` for details
